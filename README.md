@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalayse
 - 👀 I’m interested in making homemade chai while making sure I stay on top of my book goal for the year.
-- 🌱 I’m currently learning how to be a better version of me. Seems a bit cliche, but hey, I gotta start somewhere.
+- 🌱 I’m currently learning how to embrace what life has given me while making the best of my experience.
 - 💞️ I’m looking to collaborate on ways to improve my virtual presence.
 
 <!---
