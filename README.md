@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning how to embrace what life has given me while making the best of my experience.
 - 💞️ I’m looking to collaborate on ways to improve my virtual presence.
 
+Currently working on: 
+A capstone progject with Coursera's professional certification with Google's Data Analytics.
+
 <!---
 Kalayse/Kalayse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
